@@ -1,0 +1,75 @@
+{
+  "name": "tolletaten-exchange-rate",
+  "version": "1.3.32",
+  "description": "Official Norwegian Customs (Tolletaten) (Norway) fortnightly exchange rates — 22 currencies vs NOK, history since 2021. Zero-dependency Node.js/TypeScript client.",
+  "keywords": [
+    "tolletaten",
+    "norwegian-customs-tolletaten",
+    "norwegian",
+    "customs",
+    "exchange-rate",
+    "exchange-rates",
+    "exchange-rate-api",
+    "exchangerate",
+    "exchange rate",
+    "exchange rates",
+    "nok-exchange-rate",
+    "currency",
+    "forex",
+    "fx",
+    "nok",
+    "currency-api",
+    "currency-exchange-rates",
+    "forex-api",
+    "currency-conversion",
+    "currency-exchange",
+    "currency-rates",
+    "tax-authority",
+    "official-rates",
+    "norway",
+    "api",
+    "typescript",
+    "money",
+    "convert",
+    "conversion",
+    "exchange",
+    "rate",
+    "accounting",
+    "utilities",
+    "number",
+    "cart",
+    "ecommerce"
+  ],
+  "homepage": "https://allratestoday.com/tax-authority-rates-api/tolletaten/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllRates-Today/tolletaten-exchange-rate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AllRates-Today/tolletaten-exchange-rate/issues"
+  },
+  "license": "MIT",
+  "author": "AllRatesToday <hello@allratestoday.com> (https://allratestoday.com)",
+  "type": "module",
+  "main": "./index.cjs",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.cjs"
+    }
+  },
+  "files": [
+    "index.mjs",
+    "index.cjs",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false
+}
