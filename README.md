@@ -32,32 +32,32 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-12 by Norwegian Customs (Tolletaten) — 22 rates. Updated 2026-11-25.</summary>
+<summary>Table as text: published 2026-11-26 by Norwegian Customs (Tolletaten) — 22 rates. Updated 2026-11-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | NOK | reference | 6.564 |
-| CAD | NOK | reference | 6.661 |
-| CHF | NOK | reference | 11.3107 |
-| CNY | NOK | reference | 1.4014 |
-| CZK | NOK | reference | 0.42901 |
-| DKK | NOK | reference | 1.3987 |
-| EUR | NOK | reference | 10.454 |
-| GBP | NOK | reference | 12.472 |
-| HKD | NOK | reference | 1.191 |
-| HUF | NOK | reference | 0.02845 |
-| INR | NOK | reference | 0.09817 |
-| JPY | NOK | reference | 0.05935 |
-| KRW | NOK | reference | 0.00705 |
-| NZD | NOK | reference | 5.308 |
-| PKR | NOK | reference | 0.03377 |
-| PLN | NOK | reference | 2.374 |
-| RON | NOK | reference | 1.9551 |
-| SEK | NOK | reference | 0.9386 |
-| SGD | NOK | reference | 7.297 |
-| THB | NOK | reference | 0.27642 |
-| USD | NOK | reference | 9.344 |
-| ZAR | NOK | reference | 0.561 |
+| AUD | NOK | reference | 6.487 |
+| CAD | NOK | reference | 6.672 |
+| CHF | NOK | reference | 11.4933 |
+| CNY | NOK | reference | 1.4102 |
+| CZK | NOK | reference | 0.43228 |
+| DKK | NOK | reference | 1.409 |
+| EUR | NOK | reference | 10.532 |
+| GBP | NOK | reference | 12.624 |
+| HKD | NOK | reference | 1.2 |
+| HUF | NOK | reference | 0.02901 |
+| INR | NOK | reference | 0.10017 |
+| JPY | NOK | reference | 0.05957 |
+| KRW | NOK | reference | 0.00698 |
+| NZD | NOK | reference | 5.281 |
+| PKR | NOK | reference | 0.03401 |
+| PLN | NOK | reference | 2.402 |
+| RON | NOK | reference | 1.9713 |
+| SEK | NOK | reference | 0.9578 |
+| SGD | NOK | reference | 7.351 |
+| THB | NOK | reference | 0.28098 |
+| USD | NOK | reference | 9.409 |
+| ZAR | NOK | reference | 0.572 |
 
 </details>
 
